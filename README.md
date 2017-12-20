@@ -14,3 +14,10 @@ Recipes/
     ingredients_sparse_weights.txt - SPARSE WEIGHTS ingredients
     run_algo.py - python code for feature vector creation, running SVM, Adaboost
     CSV Neural.py - python code for running Neural Networks
+    Java Code/Main.Java - Code that has the 73 category buckets coded as arrays, 
+    	has methods that take the recipe data, and depending on the boolean that is 
+    	passed with them, appends directions to the feature vectors, or controls whether 
+    	the data distribution is randomly split or split evenly. To change to presence, 
+    	frequency, or grouped, the inner code condtions must be changed manually.
+    Java Code/Feature.Java - Helper class to store which category an ingredient 
+	comes from for converting to grams.
