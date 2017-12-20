@@ -2,19 +2,19 @@ import numpy as np
 import tensorflow as tf
 
 # Data sets
-IRIS_TRAINING = "recipes_weights_train"
+RECIPES_TRAINING = "recipes_weights_train"
 
-IRIS_TEST = "recipes_weights_test"
+RECIPES_TEST = "recipes_weights_test"
 
 
 def main():
     # Load datasets.
     training_set = tf.contrib.learn.datasets.base.load_csv_without_header(
-        filename=IRIS_TRAINING,
+        filename=RECIPES_TRAINING,
         target_dtype=np.int,
         features_dtype=np.float32)
     test_set = tf.contrib.learn.datasets.base.load_csv_without_header(
-        filename=IRIS_TEST,
+        filename=RECIPES_TEST,
         target_dtype=np.int,
         features_dtype=np.float32)
 
