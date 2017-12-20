@@ -1,0 +1,73 @@
+purslane,cabbage,baby greens,mixed greens,fris,slaw,escarole,romaine,bibb lettuce,lettuce,microgreens,sprouts,mesclun,alfalfa,salad
+spinach,artichoke,endive,arugula,tatsoi,m\u00e2che,mizuna,rocket
+peperoncini,jalape,chilies,red chilli,fresh red chili,ancho chili,dried chili,espelette,anaheim chili,pasilla,mexico chili,poblano chili,green chili,rajas,chillies
+yellow chili,serrano chili,serranos,aji amarillo,mama lil's kick butt,habanero chili,bird chili,chili pod,chili pods,haba\u00f1ero
+shallot,onion,scallion,leek,chive pieces,chives
+tomato,tomatillo,tomate verde
+red bell
+zucchini,cucumber,cactus
+kuchela,caper,cornichon,relish,sauerkraut,gherkin,pickles,kimchi
+asparagus,broccoli,yau choy,fiddlehead fern stems
+fennel,celery,hearts of palm,rhubarb,bok choy
+soy chunk,edamame,tofu,meatless patties,soy tempeh
+lima bean,kidney beans,bean,frijoles,haricot
+pico de gallo,tabbouleh,crudit\u00e9s
+jicama,radish,radicchio,parsnip,rutabaga,celeriac,kohlrabi,burdock,j\u00edcama,white yaut,daikon,turnip,root veg,beet
+mushroom,shiitake,chanterelle,porcini
+nori,aziki,rockweed,kelp,kombu,seaweed
+batata,yam,\u00f1ame,potatoes,potato
+bamboo,truffle,morel,okra
+squash,pumpkin,xuxu,chayote,yuca
+hominy,carrot,avocado,corn,cauliflower,olives,olive,peas,pea,vegetable,greens
+pita,matzo,matzoh,pappadam,tortilla,tostada,wraps,taco shell,matzah,papadum,lavash
+germ,cereal,granola
+lasagne,fettuccine,fusilli,bun,gnocchi,penne,linguine,macaroni,rigatoni,ziti,gnocchetti,fideo,farfalle,capellini,orecchiette,pappardelle,maccheroncini,lasagna,chitarra,acini di pepe,gemelli,fettucine,rotelle,trenett,bucatini,tagliatelle,spaghetti,pasta
+cappelletti,herb dumpling,tortellini
+masa harina,semolina,seita,tvp,all-purpose f lour,sorghum,cracked wheat,flour
+dough,bread baguette,white bread,pita bread,breadcrumbs,grain roll,bread roll,bread crumbs,baguette,pizza crust,bread,crackers,loaf,toast,dinner roll,beurre mani,roll,crouton,focaccia,crust,pretzel,spelt,biscotti,croissant,rye,pizza shell,ciabatta
+grits,polenta,ornmeal
+noodle,won ton,wonton,somen
+cannoli shell,pie crust,phyllo,puff pastry,puff pasty,muffin,pastry,crepes,biscuit,brioche,tart shell,pie shell,bisquick,cr\u00eapes,cr\u00eape
+potato chips,hash brown,tater tot,fries
+farro,barley,quinoa,rice,lentil,seeds,oats,bran,flaxseed,orzo,couscous,bulgur,millet,oatmeal,freekeh,tehina,kasha,amaranth
+olive oil,oil,sesame oil,spray,lard,schmaltz,fat,suet,cr\u00e8me fra\u00eeche,shortening,shorting,earth balance,ghee,margarine,butter
+milk,sour cream,heavy cream,whipping cream,lactose,cr\u00e9me fra\u00eeche,cr\nme fra\u00eeche,half and half,cream,half-and-half
+egg,yolk
+yoghurt,yogurt
+havarti,burrata,queso,quark,ricotta,gruy,mascarpone,cheese,mozzarella
+pecorino,gouda,parmigiano,asiago,emmenthal,parmeasan,grana padano,fromage,shredded gouda,neufcha,monterey jack,provolone,fontina,romano,parmesan,cream cheese,cheddar,sharp cheddar
+haloumi,brie,m\u00fcnster,m\u00dcnster,roquefort,camembert,gorgonzola,swiss,feta,goat cheese
+cantaloupe,guanabana,mandarin,mixed berrie,pluots,assorted fruit,dried fruit,persimmon,clementine,canteloupe,melon,tropical fruits,plantain,berries,lychees,kiwi,raspberr,mango,grape,cherries,coconut,banana,tangerine,apricot,strawberr,date,blueberr,nectarine,pear,raisin,fig,kumquat,apple,currant,orange,fruit,fruits
+fresh guava,umeboshi,passion fruit,line,papaya,nasturtium,quince,cherry,passion-fruit,prune,blackberr,grapefruit,plum,pomegranate,sumac,tamarind,cranberry,cranberries,cherries,lime,lemon
+basil,oregano,thyme,bay leaves,bay leaf,tarragon,sorrel,summer savory,fresh savory,or\u00e9gano,leaves,fresh herb,herbes,salad herbs
+parsley,dill,rosemary,sage,coriander,chervil,gremolata
+mint
+cilantro
+marjoram,saffron,turmeric,clove,lavender,vanilla,coffee,galangal,tea bag
+chicken broth,vegetable stock,chicken stock,water,veal stock,ice cube,club soda,clam juice,vegetable broth,dashi,sea stock,tea,ice,fish stock,stock,epazote,crushed ice,bouillon,bouillon base
+pesto sauce,vinegar,gelatin,salsa,enchilada sauce,hummus,poppy seed dressing,gravy,pesto,crema,chutney,dressing,mutabal,rag\u00f9 alla bolognese,marinara,guacamole
+cider,preserves,barbecue sauce,teriyaki marinade,chili fruit sauce,teriyaki baste,sweet and sour mix
+curry,stir-fry sauce,vinaigrette,soy sauce,fish sauce,duck sauce,hoisin sauce,sesame paste,sherry,tapenade,worcestershire,oyster sauce,chimichurri,adobo sauce,rouille,picada,sofrito,mojo verde,bbq marinade,salsa,salasa,a\u00efoli,soy glaze,sauce
+curry paste,tabasco,chili sauce,hot sauce,chili paste,sriracha,harissa,tobasco,cholula,sambal oelek
+mustard,tahini,condiments,catsup,vegenaise,mayonaise,mayo,mayonnaise
+raita refresh,lemon juice,red mole,espresso,ponzu,vincotto,tamari,ancho mole,mojo criollo,mole poblano
+arrowroot,starch,tapioca
+yeast,baking soda,baking powder
+cumin,cayenne,paprika,chili powder,curry powder,chile,wasabi,chili flake,zhoug,fil\u00e9 powder,ancho powder
+salt,black pepper,garlic,pepper,chipotle,miso,five-spice,seasoning,baharat,marrow,stuffing,rub #,fleur de sel,za'atar,asafetida,kona-zansh\u00f5,t\u00f5garashi,barbecue rub,ajvar,sapporo,dry rub,peperonata,sel de guer
+sugar,pimiento
+mahleb,cocoa powder,cocoa,cacao
+nutmeg,cloves,ginger,tumeric,cinnamon,allspice,aniseed,anise,cardamom,menthe,masala,canela
+brazil nut,ground nut,raw nut,chopped nuts,mixed nuts,cashew,pistachio,macadamia,pecan,pine nut,walnut,hazelnut,almond,chestnut
+de cacao,cookie,chocolate,maraschino cherry,macaroon,marshmallows,cake,ladyfingers,marshmallow,candied fruit,candy cane,candie,marrons,toffee,candy,gum,m&m,meringue,choclo kernel,oreo
+honey,maple syrup,sprite,caramel,sweet tea,nutella,dulce de leche, fudge sauce,pectin,cola,topping,jam,punch,marmalade,sorbet,soda,cajeta,icing,maple,cool whip,frosting,syrup
+agave nectar,molasses,piloncillo,guave nectar,stevia,guava nectar,sucanat
+splenda
+chicken,turkey,duck,hen,quail,squab,capon,goose,rabbit,pheasant
+pork,bacon,ham,lamb,pancetta,prosciutto,veal,kishke,salami,giblets,liver,wieners,kielbasa,pig,mincemeat,chopmeat,shank,bones,snail,terrine,p\u00e2te sucr\u00e9e disk,nduja,chorizo,bratwurst,knockwurst,hot dog,p\u00e2te bris\u00e9e,boar meat,pastrami
+steak,beef,chuck,oxtail,ribs,rib,sirloin,mignon,buffalo,brisket,bison,ground round,stew meat,venison
+fleshed-fish,skate wing,mahi-mahi,anchovy,flounder,carp,cod,tilapia,halibut,bluefish,mackerel,bass,fleshed fish,sole,anchovies,sardines,catfish,rouget,fish bone,finnan,herring,mahimahi,mahi mahi,trout,white fish,whitefish,monkfish,fish
+snapper,salmon,bonito,char,swordfish,tuna,filet,fillet
+shrimp,crab,lobster,crabmeat,prawns
+conch,scallops,mussels,clam,oysters,caviar,roe,octopus,squid,calamari,periwinkle,scallop
+cassis,t\u00eca maria,galliano,cacha\u00e7a,grand mariner,tuaca,moselle,spirit,kahl\u00faa,framboise,muscadet,cura\u2027ao,stout,burgundy,ros\u00e9,mezcal,absinthe,sauvignon,bordeaux,aquavit,midori,orvieto,dubonnet,cava,lager,pisco,grater,claret,sambuca,aperol,pinot,cura\u00e7ao,amaro,cr\u00e8me,riesling,chimay,pimm's,campari,guinness,cabernet,scotch,limoncello,syrah,armagnac,maraschino,cointreau,amaretto,absente,dictine,bitters,sauternes,southern comfort,verjus,grappa,cognac,grand marnier,frangelico,marsala,zinfandel,bourbon,sake,mirin,calvados,merlot,k\u00fcmmel,kirsh,kirsch,tequila,chartreuse,madeira,sec,port,beer,ale,whisky,drambuie,lillet,ouzo,angostura bitters,pernod,vermouth,grenadine,rum,liqueur,gin,vodka,ketchup,dry red wine,brandy,whiskey,tawny port,dry white,wine
