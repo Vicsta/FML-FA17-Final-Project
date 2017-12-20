@@ -664,13 +664,3 @@ if __name__ == "__main__":
 
     # X_train, y_train, X_test, y_test = split_data("recipes_easy", n_classes=2, equalize=True, scaled=False)
     # run_adaboost(X_train, y_train, X_test, y_test, cv=False)
-
-    l = []
-    with open('test', 'r') as f:
-        for line in f:
-            for num in line.strip().split(" "):
-                l.append(num)
-    freq = [0] * 6
-    for i in l:
-        freq[int(i)] += 1
-    print(freq)
